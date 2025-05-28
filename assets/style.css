@@ -1,0 +1,27 @@
+.stColumn {
+    padding : 1rem;
+    border-radius: 0.6rem;
+    background-color: rgb(38, 39, 41);
+}
+.st-emotion-cache-1cn49yv{
+    padding : 1rem;
+    border-radius: 0.6rem;
+    background-color: rgb(38, 39, 41);
+}
+.Diagnosis {
+    color : white;
+    padding : 0.2rem 0.5rem;
+    border-radius: 0.3rem;
+}
+
+.Diagnosis.mal{
+    background-color: #FF4B4B
+}
+.Diagnosis.beg{
+    background-color: #01DB4B
+}
+.chart{
+    color: rgb(217, 244, 236);
+    padding: 0.2rem;
+    font-family :'Times New Roman', Times, serif;
+}
